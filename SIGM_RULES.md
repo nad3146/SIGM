@@ -1,0 +1,8 @@
+- Python uniquement
+- Open Source GPLv3
+- Documentation obligatoire
+- Tests obligatoires
+- Pas de code dupliqué
+- API documentée
+- Formats ouverts
+- Respect des standards OGC
