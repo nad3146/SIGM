@@ -1,13 +1,19 @@
 # SIGM
 
-**Smart Intelligent Geology for Mining**
+Smart Intelligent Geology for Mining
 
-SIGM est une plateforme open source dédiée à la géologie minière, au SIG, à l'intelligence artificielle et à la modélisation géologique.
+SIGM est une plateforme open source dédiée à la géologie minière.
 
-## Objectifs
+## Modules
 
-- Géoréférencement automatique des cartes historiques
-- Gestion des forages
-- Modélisation géologique
-- Estimation des ressources
-- IA spécialisée en géologie minière
+- CPG Transformation Engine
+- GIS Engine
+- Geological Database
+- Geological AI
+- Resource Estimation
+- 3D Geological Modeling
+- Plugin System
+
+## Vision
+
+Construire la première plateforme open source spécialisée en géologie minière.
